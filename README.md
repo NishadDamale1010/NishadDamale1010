@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nishad 👋
 
-<!--
-**NishadDamale1010/NishadDamale1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer specializing in:
+- MERN Stack
+- Node.js
+- Express.js
+- MongoDB
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Projects:
+- CareerPilot – AI-Powered Job Discovery Platform
+- Knowva – RAG Knowledge Assistant
+
+📚 Currently Learning:
+- Data Structures & Algorithms
+- System Design
+- Advanced Backend Development
+
+📫 Email: your-email
+🔗 LinkedIn: your-linkedin
